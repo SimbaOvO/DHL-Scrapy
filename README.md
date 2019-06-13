@@ -1,14 +1,14 @@
 # DHL-Scrapy📦
-search DHL logistics information with Nodejs
+This project based on NodeJS
 
-## Dependencies⚙: 
+## Dependencies⚙
 ```
 - cheerio
 - dom-parser
 - express
 ```
 
-## Start🔰:
+## Start🔰
 ```
 - npm install
 - node main
