@@ -1,14 +1,14 @@
 # DHL-Scrapy📦
-This project based on NodeJS
+This project based on Node.js
 
-## Dependencies⚙
+### Dependencies⚙
 ```
 - cheerio
 - dom-parser
 - express
 ```
 
-## Start🔰
+### Start🔰
 ```
 - npm install
 - node main
