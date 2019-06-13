@@ -1,0 +1,27 @@
+{
+  "name": "dhl-scrapy",
+  "version": "1.0.0",
+  "description": "search dhl info",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrankySimba/DHL-Scrapy.git"
+  },
+  "keywords": [
+    "dhl"
+  ],
+  "author": "simba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrankySimba/DHL-Scrapy/issues"
+  },
+  "homepage": "https://github.com/CrankySimba/DHL-Scrapy#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "dom-parser": "^0.1.6",
+    "express": "^4.17.1"
+  }
+}
