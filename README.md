@@ -1,5 +1,5 @@
 # DHL-Scrapy📦
-This project based on Node.js
+This project is based on Node.js
 
 ### Dependencies⚙
 ```
