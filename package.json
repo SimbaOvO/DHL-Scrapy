@@ -22,6 +22,6 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "dom-parser": "^0.1.6",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
